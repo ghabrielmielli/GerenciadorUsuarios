@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "nome": "Ghabriel Mielli O J de C",
+      "datanasc": "30/03/2000",
+      "end": "Rui Barbosa, 1820",
+      "email": "ghabrielmielli@hotmail.com",
+      "id": 4
+    },
+    {
+      "nome": "Joana Maria",
+      "datanasc": "30/08/1998",
+      "end": "Rua Aqui do Lado, 899",
+      "email": "joanamariaaaaa@outlook.com",
+      "id": 6
+    }
+  ]
+}
