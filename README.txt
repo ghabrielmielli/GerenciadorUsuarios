@@ -4,7 +4,7 @@ O projeto Gerenciador de Usuários tem como objetivo efetuar o CRUD básico para
 
 A arquitetura consiste em uma SPA produzida em JavaScript com o framework Vue. As extensões Vue Router e Vue Resource foram utilizadas no projeto, sendo assim dependências deste.
 
-Os dados da aplicação foram armazenados com auxílio do json-server em TesteCOE/src/data/users.json .
+Os dados da aplicação foram armazenados com auxílio do json-server em ./src/data/users.json .
 
 O template utilizado para o projeto é o Vue CLI webpack-simple.
 
@@ -44,11 +44,11 @@ EXECUÇÃO DO PROJETO:
 
 Para executar o projeto, anteriormente foram devidamente instalados o Vue CLI e JSON-Server.
 
-O JSON-Server foi inicializado pelo terminal no diretório …/TesteCOE/src/data  
+O JSON-Server foi inicializado pelo terminal no diretório ./src/data  
 Através do terminal com o comando:
 $ npx json-server --watch users.json
 
-Após isso, para iniciar a aplicação, dentro da pasta TesteCOE, foi utilizado uma nova página/aba do terminal para executar o comando:
+Após isso, para iniciar a aplicação, dentro da pasta root do projeto, foi utilizado uma nova página/aba do terminal para executar o comando:
 $ npm run dev
 
 Após isso é aberto no navegador a página.
